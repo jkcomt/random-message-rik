@@ -1,0 +1,28 @@
+{
+  "name": "random-messagerik",
+  "version": "1.0.0",
+  "description": "random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Jose Ricardo Diaz",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkcomt/random-message-rik.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jkcomt/random-message-rik/issues"
+  },
+  "homepage": "https://github.com/jkcomt/random-message-rik#readme"
+}
